@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on a Java GUI application connected to a MySQL Database
+- 🌱 I’m currently learning Java and Python
+- ⚡ Fun fact: I love the smell of lemons
 <!--
 **devstevlemon/devstevlemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
