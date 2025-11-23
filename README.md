@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🌱 I’m currently learning Java
+- 🌱 HTML, CSS, Bootstrap, JS, PHP, Laravel
 - ⚡ Fun fact: beep beep sabi ng jeep jeep
 <!--
 **devstevlemon/devstevlemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
