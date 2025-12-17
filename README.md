@@ -1,5 +1,7 @@
 ## Hi there 👋
-- 🌱 HTML, CSS, Bootstrap, JS, PHP, Laravel
+- 🌱 I’m currently learning React and Laravel
+  - Frontend: HTML, Bootstrap, Tailwind, React
+  - Backend: Laravel, Java
 - ⚡ Fun fact: beep beep sabi ng jeep jeep
 <!--
 **devstevlemon/devstevlemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
